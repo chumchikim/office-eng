@@ -1,0 +1,13 @@
+{
+  "name": "The Office English Study",
+  "short_name": "Office English",
+  "description": "The Office 스크립트로 영어 공부하기",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d14",
+  "theme_color": "#0d0d14",
+  "icons": [
+    { "src": "/logo.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/logo.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
